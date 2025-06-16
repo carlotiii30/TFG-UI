@@ -88,7 +88,6 @@ public class PromptWindow extends JInternalFrame {
     private AbstractPromptImageDescriptor<?> generateDescriptor() {
         AbstractPromptImageDescriptor<?> descriptor = null;
         String description = this.textDescription.getText();
-        System.out.println(description);
 
         if (description.isBlank()) {
             JOptionPane.showMessageDialog(this, "Please enter a prompt description.", "Missing Input", JOptionPane.WARNING_MESSAGE);
@@ -99,7 +98,6 @@ public class PromptWindow extends JInternalFrame {
         try {
             if (parent.getOnlineAPImenu().isSelected()) {
                 String token = parent.getCustomApiToken();
-                System.out.println(token);
                 if (token == null || token.isBlank()) {
                     JOptionPane.showMessageDialog(this, "API token is missing.", "Token Required", JOptionPane.WARNING_MESSAGE);
                     return null;

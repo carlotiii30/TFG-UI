@@ -563,11 +563,6 @@ public final class MainWindow extends javax.swing.JFrame {
 
         localAPImenu.setSelected(true);
         localAPImenu.setText("Local API");
-        localAPImenu.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                localAPImenuActionPerformed(evt);
-            }
-        });
         apiMenu.add(localAPImenu);
 
         menuBar.add(apiMenu);
@@ -876,10 +871,6 @@ public final class MainWindow extends javax.swing.JFrame {
             }
         }
     }//GEN-LAST:event_duplicateMenuActionPerformed
-
-    private void localAPImenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_localAPImenuActionPerformed
-
-    }//GEN-LAST:event_localAPImenuActionPerformed
 
     public void activateToolTips() {
         historicBox.addPopupMenuListener(new javax.swing.event.PopupMenuListener() {
