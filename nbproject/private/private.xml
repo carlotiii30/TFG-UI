@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/MainWindow.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/generarImagen.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/mean24.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/openDB.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/ColorSetPanel.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/InternalWindow.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/guardar.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/addBD.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/informacion.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/TFG.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/ImagePromptItem.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/PromptWindow.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/deleteBD.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/searchDB.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/saveDB.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/Cerrar.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/DataBase.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/icons/abrir.png</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/ListInternalWindow.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/ImagePromptListRenderer.java</file>
+            <file>file:/Users/carlota/NetBeansProjects/TFG/src/tfg/ImagePanel.java</file>
+        </group>
+    </open-files>
+</project-private>
